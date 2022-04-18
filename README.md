@@ -41,6 +41,8 @@ ecosystem.</h3>
 <p align="center">
 
 [![Junaid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunaidSikander&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Junaid's total time spend on wakatime](https://wakatime.com/badge/user/f672a728-69ff-4813-8b4d-e916a71e89db.svg)](https://wakatime.com/@f672a728-69ff-4813-8b4d-e916a71e89db)
 
 </p>
 
